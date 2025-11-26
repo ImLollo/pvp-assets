@@ -1,2 +1,3 @@
 # pvp-assets
-PVP assets data
+
+This repository contains static data and can be accessed remotely via direct URLs.
